@@ -1,0 +1,164 @@
+{
+   "issueDate": "2017-01-15",
+   "maturityDate": "2020-03-15",
+   "underlyings": [
+      "MSFT UQ Equity"
+   ],
+   "recordSummary": {
+      "type": "worstof"
+   },
+   "floatings": [
+      "DUMMY"
+   ],
+   "floatingsReset": [
+      0.08333333333333333
+   ],
+   "edges": [
+      [
+         0,
+         0,
+         50,
+         100,
+         100,
+         150,
+         200,
+         200
+      ],
+      [
+         100,
+         100,
+         100,
+         100,
+         100,
+         100,
+         100,
+         100
+      ]
+   ],
+   "knockinBarrier": {},
+   "dividend": 0,
+   "trend": 0,
+   "rating": "B/B2",
+   "initialReferenceDates": [
+      "1/10/2017",
+      "1/9/2017",
+      "1/4/2017"
+   ],
+   "finalReferenceDates": [
+      "3/10/2020",
+      "3/9/2020",
+      "3/4/2020"
+   ],
+   "earlyRedemption": [],
+   "interimPayments": [
+      {
+         "couponType": "fixed",
+         "interval": "3m",
+         "rate": 2,
+         "paymentDate": "4/17/2017",
+         "redemptionDate": "4/17/2017",
+         "observationDate": "4/12/2017",
+         "determinationDate": "4/12/2017"
+      },
+      {
+         "couponType": "fixed",
+         "interval": "3m",
+         "rate": 2,
+         "paymentDate": "7/17/2017",
+         "redemptionDate": "7/17/2017",
+         "observationDate": "7/12/2017",
+         "determinationDate": "7/12/2017"
+      },
+      {
+         "couponType": "fixed",
+         "interval": "3m",
+         "rate": 2,
+         "paymentDate": "10/17/2017",
+         "redemptionDate": "10/17/2017",
+         "observationDate": "10/12/2017",
+         "determinationDate": "10/12/2017"
+      },
+      {
+         "couponType": "fixed",
+         "interval": "3m",
+         "rate": 2,
+         "paymentDate": "1/17/2018",
+         "redemptionDate": "1/17/2018",
+         "observationDate": "1/12/2018",
+         "determinationDate": "1/12/2018"
+      },
+      {
+         "couponType": "fixed",
+         "interval": "3m",
+         "rate": 2,
+         "paymentDate": "4/17/2018",
+         "redemptionDate": "4/17/2018",
+         "observationDate": "4/12/2018",
+         "determinationDate": "4/12/2018"
+      },
+      {
+         "couponType": "fixed",
+         "interval": "3m",
+         "rate": 2,
+         "paymentDate": "7/17/2018",
+         "redemptionDate": "7/17/2018",
+         "observationDate": "7/12/2018",
+         "determinationDate": "7/12/2018"
+      },
+      {
+         "couponType": "fixed",
+         "interval": "3m",
+         "rate": 2,
+         "paymentDate": "10/17/2018",
+         "redemptionDate": "10/17/2018",
+         "observationDate": "10/12/2018",
+         "determinationDate": "10/12/2018"
+      },
+      {
+         "couponType": "fixed",
+         "interval": "3m",
+         "rate": 2,
+         "paymentDate": "1/17/2019",
+         "redemptionDate": "1/17/2019",
+         "observationDate": "1/14/2019",
+         "determinationDate": "1/14/2019"
+      },
+      {
+         "couponType": "fixed",
+         "interval": "3m",
+         "rate": 2,
+         "paymentDate": "4/17/2019",
+         "redemptionDate": "4/17/2019",
+         "observationDate": "4/12/2019",
+         "determinationDate": "4/12/2019"
+      },
+      {
+         "couponType": "fixed",
+         "interval": "3m",
+         "rate": 2,
+         "paymentDate": "7/17/2019",
+         "redemptionDate": "7/17/2019",
+         "observationDate": "7/12/2019",
+         "determinationDate": "7/12/2019"
+      },
+      {
+         "couponType": "fixed",
+         "interval": "3m",
+         "rate": 2,
+         "paymentDate": "10/17/2019",
+         "redemptionDate": "10/17/2019",
+         "observationDate": "10/14/2019",
+         "determinationDate": "10/14/2019"
+      },
+      {
+         "couponType": "fixed",
+         "interval": "3m",
+         "rate": 2,
+         "paymentDate": "1/17/2020",
+         "redemptionDate": "1/17/2020",
+         "observationDate": "1/13/2020",
+         "determinationDate": "1/13/2020"
+      }
+   ],
+   "memoryFlag": "false"
+}

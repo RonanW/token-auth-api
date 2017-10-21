@@ -1,0 +1,8 @@
+{
+   "PORT": "3000",
+   "GRANT_TYPE": "client_credentials",
+   "CLIENT_ID": "coding_test",
+   "CLIENT_SECRET": "bwZm5XC6HTlr3fcdzRnD",
+   "TOKEN_URL": "https://staging-auth.wallstreetdocs.com/oauth/token",
+   "RISK_URL": "https://staging-qlab-compute.priipcloud.com/v0.11/risk-measures"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "wsd-coding-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RonanW/wsd-coding-test.git"
+  },
+  "author": "Ronan Walsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RonanW/wsd-coding-test/issues"
+  },
+  "homepage": "https://github.com/RonanW/wsd-coding-test",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "install": "^0.10.1",
+    "npm": "^5.5.1",
+    "request": "^2.83.0"
+  }
+}
